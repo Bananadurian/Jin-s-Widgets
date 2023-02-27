@@ -1,2 +1,3 @@
-# Jin-s-Widgets
-自制的Rainmeter小部件
+# JinsWidgets
+
+自制的[rainmeter](https://www.rainmeter.net/)小部件
