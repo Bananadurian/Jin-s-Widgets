@@ -12,7 +12,7 @@
 - 倒计时圆弧角度支持修改；
 - 倒计时支持进度颜色像水波纹一样晃动（目前代码注释掉了，未开启）。
 
-![](./CountDownTimePreview.png)
+![](./Preview/CountDownTimePreview.png)
 
 todo
 
@@ -22,4 +22,13 @@ todo
 
 一个简约时钟。
 
-![](./TimePreview.png)
+![](./Preview/TimePreview.png)
+
+## 3. TimeSchedule
+
+一个作息时间表。
+
+- 当前小时的计划会突出显式。
+
+![](./Preview/TimeSchedulePreview.png)
+
